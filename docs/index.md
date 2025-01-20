@@ -1,8 +1,8 @@
-# Documentation for: DOC System v2
+# Documentation for: DOC System v2 with my modifications
 
 ---
 
-A DOC EXAMPLE FOR TESTING CHANGES IN GIT
+A DOC EXAMPLE FOR TESTING CHANGES IN GIT (My own modifs)
 
 test of lower case 
 
